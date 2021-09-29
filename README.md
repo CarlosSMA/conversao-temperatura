@@ -1,4 +1,4 @@
-# Conversão peso
+# Conversão temperatura
 > Repositório dedicado ao Desafio 1 da **Iniciativa Kubernetes**
 ---
 ## Instruções
